@@ -1,14 +1,15 @@
-[
-  {
-    "name": "Colombia",
-    "flag": "🇨🇴",
-    "host": "tu.servidor.col",
-    "port": 7300
-  },
-  {
-    "name": "México",
-    "flag": "🇲🇽",
-    "host": "tu.servidor.mx",
-    "port": 7300
-  }
-]
+{
+  "version": 1,
+  "servers": [
+    {
+      "name": "Colombia UDP",
+      "flag": "🇨🇴",
+      "host": "arcangel.clmadi.site",
+      "portMin": 1,
+      "portMax": 65535,
+      "username": "arca",
+      "password": "1234",
+      "mode": "UDP_CUSTOM"
+    }
+  ]
+}
