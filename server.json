@@ -3,7 +3,7 @@
     "name": "Colombia",
     "flag": "🇨🇴",
     "host": "arcangel.clmadi.site",
-    "portRange": "1-65535",
+    "portRange": "36712",
     "username": "arca",
     "password": "1234",
     "mode": "udp_custom"
