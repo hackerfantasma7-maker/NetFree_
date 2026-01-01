@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Colombia",
+    "flag": "🇨🇴",
+    "host": "tu.servidor.col",
+    "port": 7300
+  },
+  {
+    "name": "México",
+    "flag": "🇲🇽",
+    "host": "tu.servidor.mx",
+    "port": 7300
+  }
+]
