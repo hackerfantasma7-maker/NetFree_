@@ -1,15 +1,11 @@
-{
-  "version": 1,
-  "servers": [
-    {
-      "name": "Colombia UDP",
-      "flag": "🇨🇴",
-      "host": "arcangel.clmadi.site",
-      "portMin": 1,
-      "portMax": 65535,
-      "username": "arca",
-      "password": "1234",
-      "mode": "UDP_CUSTOM"
-    }
-  ]
-}
+[
+  {
+    "name": "Arcangel Colombia",
+    "flag": "🇨🇴",
+    "host": "arcangel.clmadi.site",
+    "port_range": "1-65535",
+    "username": "USUARIO_UDP",
+    "password": "PASSWORD_UDP",
+    "mode": "udp_custom"
+  }
+]
