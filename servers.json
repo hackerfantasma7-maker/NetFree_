@@ -1,11 +1,20 @@
 [
   {
-    "name": "Arcangel Colombia",
+    "name": "Colombia",
     "flag": "🇨🇴",
     "host": "arcangel.clmadi.site",
-    "port_range": "1-65535",
-    "username": "USUARIO_UDP",
-    "password": "PASSWORD_UDP",
+    "portRange": "1-65535",
+    "username": "usuario1",
+    "password": "clave1",
+    "mode": "udp_custom"
+  },
+  {
+    "name": "México",
+    "flag": "🇲🇽",
+    "host": "arcangel.clmadi.site",
+    "portRange": "1-65535",
+    "username": "usuario2",
+    "password": "clave2",
     "mode": "udp_custom"
   }
 ]
