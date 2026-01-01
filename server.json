@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Colombia",
+    "flag": "🇨🇴",
+    "host": "arcangel.clmadi.site",
+    "portRange": "1-65535",
+    "username": "arca",
+    "password": "1234",
+    "mode": "udp_custom"
+  },
+  {
+    "name": "México",
+    "flag": "🇲🇽",
+    "host": "arcangel.clmadi.site",
+    "portRange": "1-65535",
+    "username": "usuario2",
+    "password": "clave2",
+    "mode": "udp_custom"
+  }
+]
